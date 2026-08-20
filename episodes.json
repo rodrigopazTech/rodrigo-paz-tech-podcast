@@ -1,7 +1,7 @@
 ﻿[
     {
         "Description":  "Estas fuentes consisten en una guía detallada y consejos prácticos para dominar ibisPaint, una aplicación versátil de dibujo digital. Los textos proporcionan un itinerario de aprendizaje que abarca desde los conceptos básicos, como el uso de capas y pinceles, hasta funciones avanzadas que incluyen herramientas de perspectiva, filtros de IA y creación de manga. Por su parte, el recurso audiovisual complementa la teoría con trucos creativos, enseñando técnicas para realizar pixel art, generar relieves en 3D y diseñar calcomanías con bordes automáticos. En conjunto, el material busca fomentar el desarrollo artístico tanto en principiantes como en ilustradores experimentados. Las lecciones enfatizan la importancia de la práctica constante y la exploración de la interfaz para mejorar la eficiencia del trabajo. Finalmente, se resalta la capacidad de la plataforma para compartir obras y conectar con una comunidad global de artistas.",
-        "PubDate":  "mar., 04 ago. 2026 22:02:29 +0000",
+        "PubDate":  "Thu, 20 Aug 2026 10:00:00 +0000",
         "LocalPath":  "C:\\Users\\Rodrigo.DESKTOP-2MLHEH3\\Desktop\\Servicios\\NotebookLM\\podcast-feed\\audio\\Guía-Maestra-y-Trucos-de-ibisPaint-X.m4a",
         "FileName":  "Guía-Maestra-y-Trucos-de-ibisPaint-X.m4a",
         "NotebookId":  "008f6697-ad52-4671-ac81-6127e3a02362",
@@ -9,7 +9,7 @@
     },
     {
         "Description":  "Estas fuentes ofrecen una visión integral de FastAPI, un framework de Python diseñado para construir APIs de alto rendimiento. Los textos destacan su capacidad nativa para manejar operaciones asíncronas mediante la sintaxis async/await, lo que optimiza la gestión de múltiples conexiones simultáneas. Se explica cómo herramientas como Pydantic y Starlette facilitan la validación de datos y la generación automática de documentación interactiva. Además, los artículos detallan aplicaciones prácticas en el ámbito de la Inteligencia Artificial, mostrando cómo integrar modelos de lenguaje (LLM) como los de OpenAI o Anthropic. Finalmente, se abordan estrategias de despliegue en producción utilizando tecnologías como Docker, Uvicorn y flujos de CI/CD con GitHub Actions.",
-        "PubDate":  "dom., 26 jul. 2026 01:16:02 +0000",
+        "PubDate":  "Thu, 27 Aug 2026 10:00:00 +0000",
         "LocalPath":  "C:\\Users\\Rodrigo.DESKTOP-2MLHEH3\\Desktop\\Servicios\\NotebookLM\\podcast-feed\\audio\\FastAPI-De-los-Fundamentos-al-Despliegue-de-IA.m4a",
         "FileName":  "FastAPI-De-los-Fundamentos-al-Despliegue-de-IA.m4a",
         "NotebookId":  "7c343867-a4b9-4857-8edd-60049567dfa7",
@@ -17,7 +17,7 @@
     },
     {
         "Description":  "Estas fuentes exponen la revolución tecnológica de 2026, enfocándose en cómo la inteligencia artificial transforma la educación y el emprendimiento digital. Los textos incluyen un tutorial práctico sobre Google Flow, donde se enseña a docentes a convertir texto e imágenes en videos dinámicos con audio y avatares. Complementariamente, se analizan doce modelos de negocio exitosos, como asistentes de escritura y generadores de logos, que demuestran el potencial de rentabilidad de las herramientas basadas en IA. El contenido subraya una transición crucial: el mercado ya no demanda tareas manuales, sino la implementación de sistemas automatizados de alta eficiencia. En conjunto, los materiales ofrecen una guía estratégica para dominar la producción multimedia y capitalizar las nuevas oportunidades comerciales en el ecosistema digital actual.",
-        "PubDate":  "sáb., 25 jul. 2026 17:20:34 +0000",
+        "PubDate":  "Thu, 03 Sep 2026 10:00:00 +0000",
         "LocalPath":  "C:\\Users\\Rodrigo.DESKTOP-2MLHEH3\\Desktop\\Servicios\\NotebookLM\\podcast-feed\\audio\\Guía-Maestra-Crea-Shorts-Virales-con-NotebookLM-en-Español.m4a",
         "FileName":  "Guía-Maestra-Crea-Shorts-Virales-con-NotebookLM-en-Español.m4a",
         "NotebookId":  "d575bd6c-c79e-4473-bf6d-f8e49f359f47",
@@ -25,7 +25,7 @@
     },
     {
         "Description":  "Los textos presentan a OpenClaw como una plataforma de código abierto que transforma modelos de lenguaje en asistentes administrativos inteligentes accesibles mediante aplicaciones de mensajería como Telegram o WhatsApp. Los usuarios pueden delegar tareas complejas, desde la facturación electrónica y gestión de gastos hasta la automatización de navegadores y sistemas de archivos. El ecosistema permite la integración de modelos externos como Claude y Gemini, o bien el uso de modelos locales para quienes priorizan la privacidad y el ahorro de costos. Las fuentes también enfatizan la importancia de la seguridad informática, sugiriendo el uso de contenedores Docker para aislar los procesos y evitar daños accidentales en el equipo anfitrión. Finalmente, se ofrecen guías técnicas detalladas para la instalación, configuración de memoria y personalización de estas herramientas en diversos entornos operativos.",
-        "PubDate":  "vie., 12 jun. 2026 17:01:34 +0000",
+        "PubDate":  "Thu, 10 Sep 2026 10:00:00 +0000",
         "LocalPath":  "C:\\Users\\Rodrigo.DESKTOP-2MLHEH3\\Desktop\\Servicios\\NotebookLM\\podcast-feed\\audio\\OpenClaw-Guia-Completa-de-Agentes-IA-Self-Hosted.m4a",
         "FileName":  "OpenClaw-Guia-Completa-de-Agentes-IA-Self-Hosted.m4a",
         "NotebookId":  "2363071d-f349-4076-ac4a-43f8b8f36d11",
@@ -33,7 +33,7 @@
     },
     {
         "Description":  "Estas fuentes ofrecen una guía integral sobre la gestión de bases de datos y el desarrollo web, abarcando desde conceptos teóricos hasta implementaciones prácticas. Los materiales explican cómo instalar y configurar SQL Server, detallando la creación de bases de datos mediante interfaces gráficas o código Transact-SQL. Asimismo, se analizan diversas opciones de alojamiento web para PHP, comparando servicios gratuitos y de pago para optimizar el rendimiento y la seguridad. Otros apartados exploran la lógica de programación y el uso de algoritmos como pilares fundamentales para resolver problemas técnicos. Finalmente, se incluyen ejercicios resueltos en PHP y tutoriales para migrar entornos locales a la nube de Azure.",
-        "PubDate":  "sáb., 06 jun. 2026 13:12:20 +0000",
+        "PubDate":  "Thu, 17 Sep 2026 10:00:00 +0000",
         "LocalPath":  "C:\\Users\\Rodrigo.DESKTOP-2MLHEH3\\Desktop\\Servicios\\NotebookLM\\podcast-feed\\audio\\Fundamentos-de-Lógica-de-Programación-y-Desarrollo-en-PHP.m4a",
         "FileName":  "Fundamentos-de-Lógica-de-Programación-y-Desarrollo-en-PHP.m4a",
         "NotebookId":  "db83e746-b4c2-49f2-b0ff-579e818d080c",
@@ -41,7 +41,7 @@
     },
     {
         "Description":  "Las fuentes presentan a AnythingLLM como una plataforma integral de código abierto diseñada para implementar sistemas de generación aumentada por recuperación (RAG) de manera local y sencilla. A través de guías técnicas y documentación oficial, se detalla cómo esta herramienta permite conectar modelos de lenguaje con documentos privados, permitiendo a los usuarios crear expertos personalizados en áreas como las leyes o la ingeniería. Los textos destacan la capacidad de integrar diversos proveedores de IA, bases de datos vectoriales y agentes inteligentes, todo bajo un entorno que prioriza la privacidad de los datos. Asimismo, se explican procesos técnicos fundamentales como el chunking, la vectorización de archivos y la gestión de acceso mediante claves API. Finalmente, se resalta su compatibilidad con herramientas como Ollama y Docker, facilitando una infraestructura robusta para soluciones empresariales y proyectos de autohospedaje.",
-        "PubDate":  "vie., 29 may. 2026 16:42:40 +0000",
+        "PubDate":  "Thu, 24 Sep 2026 10:00:00 +0000",
         "LocalPath":  "C:\\Users\\Rodrigo.DESKTOP-2MLHEH3\\Desktop\\Servicios\\NotebookLM\\podcast-feed\\audio\\LLMs-Locales-en-GPUs-de-Gama-Baja-Guia-para-4GB-VRAM.m4a",
         "FileName":  "LLMs-Locales-en-GPUs-de-Gama-Baja-Guia-para-4GB-VRAM.m4a",
         "NotebookId":  "791c42ee-0c58-4d6e-8d8a-6644a0979c5c",
@@ -49,7 +49,7 @@
     },
     {
         "Description":  "Este material educativo ofrece una introducción detallada a la accesibilidad web, destacando cómo el Internet ha transformado la vida de las personas con discapacidad. El contenido se fundamenta en las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.2, explicando los tres niveles de cumplimiento: A, AA y AAA. La explicación se estructura bajo cuatro principios fundamentales que exigen que los sitios sean perceptibles, operables, entendibles y robustos. Mediante ejemplos prácticos, se enseña a implementar soluciones técnicas en HTML y CSS para eliminar barreras digitales. El objetivo final es garantizar que cualquier usuario pueda navegar de forma autónoma, sin importar sus capacidades físicas o técnicas.",
-        "PubDate":  "dom., 03 may. 2026 16:15:03 +0000",
+        "PubDate":  "Thu, 01 Oct 2026 10:00:00 +0000",
         "LocalPath":  "C:\\Users\\Rodrigo.DESKTOP-2MLHEH3\\Desktop\\Servicios\\NotebookLM\\podcast-feed\\audio\\Fundamentos-de-Diseño-Web-Frontend.m4a",
         "FileName":  "Fundamentos-de-Diseño-Web-Frontend.m4a",
         "NotebookId":  "e3e4c73c-43e5-4747-9962-074865a1dc84",
@@ -57,7 +57,7 @@
     },
     {
         "Description":  "Estas fuentes ofrecen una visión técnica integral sobre la transferencia de datos y el manejo de archivos en entornos web, centrándose especialmente en el ecosistema PHP y el protocolo HTTP. Los textos detallan el funcionamiento de la superglobal $_FILES, la cual organiza la información enviada mediante formularios, y explican los diversos códigos de error que pueden surgir durante una carga. Asimismo, se define la importancia del encabezado Content-Type y el estándar MIME para clasificar el contenido multimedia y estructurar peticiones multipart. Otros apartados analizan el ciclo de vida del intérprete PHP, diferenciando entre la inicialización de módulos y la gestión de solicitudes individuales. Finalmente, se aclara la distinción fundamental entre los atributos ID y Name en HTML, esenciales para la manipulación con JavaScript y la correcta recepción de datos en el servidor.",
-        "PubDate":  "sáb., 14 mar. 2026 12:29:12 +0000",
+        "PubDate":  "Thu, 08 Oct 2026 10:00:00 +0000",
         "LocalPath":  "C:\\Users\\Rodrigo.DESKTOP-2MLHEH3\\Desktop\\Servicios\\NotebookLM\\podcast-feed\\audio\\Formularios-Web-y-Subida-de-Archivos-Mecanismos-Esenciales.m4a",
         "FileName":  "Formularios-Web-y-Subida-de-Archivos-Mecanismos-Esenciales.m4a",
         "NotebookId":  "94e9196d-7fc6-418a-9dd0-eacfb32b80b7",
@@ -65,7 +65,7 @@
     },
     {
         "Description":  "El primer recurso es una guía educativa detallada del canal freeCodeCamp que enseña cómo utilizar Bootstrap 5 para el desarrollo web moderno. El contenido se centra en la creación de un portafolio responsivo, explicando desde la instalación de herramientas como Visual Studio Code hasta el uso de componentes como barras de navegación y carruseles. Se enfatiza la importancia de dominar la cuadrícula de 12 columnas y las utilidades de flexbox para lograr que los sitios se adapten a cualquier dispositivo. Por otro lado, la segunda fuente complementa esta formación al ofrecer una guía técnica sobre CSS Grid, abordando conceptos tanto básicos como avanzados para el diseño de estructuras web. En conjunto, ambos textos proporcionan una base sólida para construir interfaces visualmente atractivas y técnicamente eficientes.",
-        "PubDate":  "mié., 04 mar. 2026 14:11:20 +0000",
+        "PubDate":  "Thu, 15 Oct 2026 10:00:00 +0000",
         "LocalPath":  "C:\\Users\\Rodrigo.DESKTOP-2MLHEH3\\Desktop\\Servicios\\NotebookLM\\podcast-feed\\audio\\Dominando-Bootstrap-5-Guía-Maestra-de-Diseño-Web-Moderno.m4a",
         "FileName":  "Dominando-Bootstrap-5-Guía-Maestra-de-Diseño-Web-Moderno.m4a",
         "NotebookId":  "6350f132-b04f-4508-9a29-2cd60adf3bcb",
@@ -73,7 +73,7 @@
     },
     {
         "Description":  "Estas fuentes ofrecen una guía detallada sobre Linear, una plataforma de gestión de proyectos diseñada para optimizar la productividad en equipos de desarrollo de software y diseño. El contenido explica funciones esenciales como el seguimiento de problemas, la planificación de sprints mediante ciclos y el uso de hojas de ruta estratégicas para organizar el trabajo. Se destaca su enfoque en la velocidad de ejecución y una interfaz minimalista que prioriza los atajos de teclado para eliminar fricciones operativas. Además, los textos detallan integraciones clave con herramientas como GitHub, Slack y Figma, permitiendo una sincronización automática del flujo de trabajo. Finalmente, se abordan prácticas avanzadas como la gestión de deuda técnica y el uso de Triage para procesar solicitudes externas de manera eficiente.",
-        "PubDate":  "lun., 23 feb. 2026 10:40:46 +0000",
+        "PubDate":  "Thu, 22 Oct 2026 10:00:00 +0000",
         "LocalPath":  "C:\\Users\\Rodrigo.DESKTOP-2MLHEH3\\Desktop\\Servicios\\NotebookLM\\podcast-feed\\audio\\Linear-Guia-de-Planeacion-Flujos-de-Trabajo-y-Deuda-Tecnica.m4a",
         "FileName":  "Linear-Guia-de-Planeacion-Flujos-de-Trabajo-y-Deuda-Tecnica.m4a",
         "NotebookId":  "f0300c1c-7bfb-4d92-8835-2f6e50b48e75",
